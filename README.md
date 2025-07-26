@@ -31,12 +31,12 @@ A sleek, animated, and responsive Login/Signup user interface built using *React
 
 | Login Page | Signup Page | Dashboard |
 |------------|-------------|-----------|
-| ![Login](./screenshots/login.png) | ![Signup](./screenshots/signup.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login](image.png) | ![Signup](image-1.png) | ![Dashboard](image-2.png) |
 
 ---
 
 ## 🔗 Live Demo
-*Netlify Link*: [https://your-deployed-link.netlify.app](https://your-deployed-link.netlify.app)
+*Netlify Link*: [https://your-deployed-link.netlify.app](https://madebybabli-login-signup.netlify.app)
 
 ---
 
